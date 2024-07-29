@@ -28,4 +28,7 @@ Lastly, you will be taken to this page to view your Resource group inside of you
 
 CONGRATS!! YOU JUST CREATED YOUR FIRST AZURE RESOURCE GROUP!!
 
+
 Now, we will create a storage account. 
+
+To create a storage account, type “storage account into the search bar and click on the first option, circled in red. 
