@@ -56,3 +56,8 @@ After clicking create, you will see this page. It may take a few minutes for you
 ![Screenshot 12 Azure](https://github.com/user-attachments/assets/14e7eb31-944d-4e16-b715-0886b74d078a)
 
 CONGRATS!! YOU JUST CREATED YOUR FIRST AZURE STORAGE ACCOUNT.
+
+Lastly, we will create containers.
+
+Inside your storage account you will see this bag. Click on the tab “Containers” on the left-hand side. 
+
