@@ -48,3 +48,5 @@ Scroll all the way down to the bottom of the page to explore redundancy options.
 ![Screenshot 10 Azure](https://github.com/user-attachments/assets/d55c3b69-07ad-46e4-9ff0-06f3ede27d08)
 
 Now you’ll be taken to the review/validation page. If everything looks good to you, click on create.
+
+![Screenshot 11 Azure](https://github.com/user-attachments/assets/d1d6c9d1-9ab3-4b26-a21c-1d9231ac582b)
