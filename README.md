@@ -40,3 +40,5 @@ You’re then taken to this page. Click “create storage account.”
 ![Screenshot 8 Azure](https://github.com/user-attachments/assets/f0cc1c74-fd13-469b-91e5-20607948e54a)
 
 Here you can select the subscription, Resource group, region, and performance that you want the storage account to be in. The storage account name needs to be globally unique. 
+
+![Screenshot 9 Azure ](https://github.com/user-attachments/assets/0c6fe9ab-28d1-46ea-9dcd-aa4d62ca880d)
