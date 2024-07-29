@@ -70,3 +70,5 @@ Click “+Container” to create a container.
 This will pop up on the right hand side for you to name your container. After that, click create in the bottom left corner. 
 
 ![Screenshot 15 Azure](https://github.com/user-attachments/assets/9b5e67d1-4651-449e-bef1-9d6a636bfb31)
+
+Now the container that you just created is in the “Container” tab in the storage account it was stored in. 
