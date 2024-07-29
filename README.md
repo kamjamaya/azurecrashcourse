@@ -90,3 +90,5 @@ Go back to your open container and click on the “upload” button.
 You should see this page open on the right hand side. Click on “browse for files” and click on the file that you saved from your text editor to your computer. 
 
 ![Screenshot 18 Azure](https://github.com/user-attachments/assets/893fc7d4-91e0-4aa1-9569-0ef3febd4a0c)
+
+Then click Upload!
