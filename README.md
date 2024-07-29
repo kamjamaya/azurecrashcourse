@@ -44,3 +44,5 @@ Here you can select the subscription, Resource group, region, and performance th
 ![Screenshot 9 Azure ](https://github.com/user-attachments/assets/0c6fe9ab-28d1-46ea-9dcd-aa4d62ca880d)
 
 Scroll all the way down to the bottom of the page to explore redundancy options. Once finished, click “review and create.”
+
+![Screenshot 10 Azure](https://github.com/user-attachments/assets/d55c3b69-07ad-46e4-9ff0-06f3ede27d08)
