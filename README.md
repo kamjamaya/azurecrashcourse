@@ -98,3 +98,5 @@ The text file will now be stored in the container. To edit it click on the 3 dot
 ![Screenshot 19 Azure](https://github.com/user-attachments/assets/41b7f487-7cf8-4fe7-99b2-7ff378440b1f)
 
 Here you can add more to the text file. Once you finish click the save button and your changes will be saved to that file.
+
+To observe the changes, click on the 3 dots next to Available and then click on download.
