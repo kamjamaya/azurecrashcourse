@@ -36,3 +36,5 @@ To create a storage account, type “storage account into the search bar and cli
 ![Screenshot 7 Azure](https://github.com/user-attachments/assets/6b7cd24a-2df9-462e-aa3e-84701a48e249)
 
 You’re then taken to this page. Click “create storage account.”
+
+![Screenshot 8 Azure](https://github.com/user-attachments/assets/f0cc1c74-fd13-469b-91e5-20607948e54a)
