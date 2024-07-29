@@ -59,7 +59,7 @@ After clicking create, you will see this page. It may take a few minutes for you
 
 CONGRATS!! YOU JUST CREATED YOUR FIRST AZURE STORAGE ACCOUNT.
 
-Lastly, we will create containers.
+Next, we will create containers.
 
 Inside your storage account you will see this page. Click on the tab “Containers” on the left-hand side. 
 
@@ -76,3 +76,5 @@ This will pop up on the right hand side for you to name your container. After th
 Now the container that you just created is in the “Container” tab in the storage account it was stored in. 
 
 ![Screenshot 16 Azure](https://github.com/user-attachments/assets/b9db8d65-6cf7-4936-bc45-6a2f7b64d4ae)
+
+Lastly, we will create and upload a file to our container inside of our storage account. 
