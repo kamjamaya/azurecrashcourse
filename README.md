@@ -84,3 +84,5 @@ Open your desktop text editor. I am running on a Windows 10 operating system, so
 Now type anything you want into the application and then save the file.
 
 Go back to your open container and click on the “upload” button. 
+
+![Screenshot 17 Azure](https://github.com/user-attachments/assets/e07e0cf4-76d1-4f4e-a403-8efcf560d24d)
