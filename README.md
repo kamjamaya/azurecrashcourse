@@ -18,3 +18,4 @@ Here, you can create tags for your Resource group. Tags allow for better organiz
 
 You will be taken to the validation page to ensure all the information you entered was accurate. After the validation is passed, click the “create” button in the bottom left corner.
 
+![Screenshot 5 Azure](https://github.com/user-attachments/assets/59a5e07c-5566-4aa1-95c7-fbe7652ea2a8)
