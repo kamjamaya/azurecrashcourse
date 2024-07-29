@@ -1,5 +1,7 @@
 # Azure Crash Course
 
+In this crash course we will be creating a Resource group, storage account, and a container to upload and store files in Azure.
+
 Firstly, we will create a Resource group.
 
 After you’ve created a subscription to Azure and logged into your portal, on the home page select “Resource groups,” circled in red below.
