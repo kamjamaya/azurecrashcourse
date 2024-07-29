@@ -94,3 +94,5 @@ You should see this page open on the right hand side. Click on “browse for fil
 Then click Upload!
 
 The text file will now be stored in the container. To edit it click on the 3 dots next to the word “Available” on the right side.
+
+![Screenshot 19 Azure](https://github.com/user-attachments/assets/41b7f487-7cf8-4fe7-99b2-7ff378440b1f)
