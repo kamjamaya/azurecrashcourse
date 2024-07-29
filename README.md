@@ -13,3 +13,5 @@ Once you’ve selected “create”, you’ll be taken to this page. You can sel
 ![Screenshot 3 Azure](https://github.com/user-attachments/assets/242762cb-396d-40a8-870c-ca68f96b2a40)
 
 Here, you can create tags for your Resource group. Tags allow for better organizational features and consist of a name and corresponding value. Select “Next : Review + create >” to go to the next page.
+
+![Screenshot 4 Azure](https://github.com/user-attachments/assets/8b2a5bc3-1888-4426-9750-33a733b7ede1)
