@@ -32,3 +32,5 @@ CONGRATS!! YOU JUST CREATED YOUR FIRST AZURE RESOURCE GROUP!!
 Now, we will create a storage account. 
 
 To create a storage account, type “storage account into the search bar and click on the first option, circled in red. 
+
+![Screenshot 7 Azure](https://github.com/user-attachments/assets/6b7cd24a-2df9-462e-aa3e-84701a48e249)
