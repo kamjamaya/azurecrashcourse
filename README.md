@@ -72,3 +72,5 @@ This will pop up on the right hand side for you to name your container. After th
 ![Screenshot 15 Azure](https://github.com/user-attachments/assets/9b5e67d1-4651-449e-bef1-9d6a636bfb31)
 
 Now the container that you just created is in the “Container” tab in the storage account it was stored in. 
+
+![Screenshot 16 Azure](https://github.com/user-attachments/assets/b9db8d65-6cf7-4936-bc45-6a2f7b64d4ae)
