@@ -68,3 +68,5 @@ Click “+Container” to create a container.
 ![Screenshot 14 Azure](https://github.com/user-attachments/assets/fd1174a0-5b07-4b53-ada6-f87588e2520d)
 
 This will pop up on the right hand side for you to name your container. After that, click create in the bottom left corner. 
+
+![Screenshot 15 Azure](https://github.com/user-attachments/assets/9b5e67d1-4651-449e-bef1-9d6a636bfb31)
