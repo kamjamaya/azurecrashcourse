@@ -21,3 +21,7 @@ You will be taken to the validation page to ensure all the information you enter
 ![Screenshot 5 Azure](https://github.com/user-attachments/assets/59a5e07c-5566-4aa1-95c7-fbe7652ea2a8)
 
 Lastly, you will be taken to this page to view your Resource group inside of your subscription.
+
+![Screenshot 6 Azure](https://github.com/user-attachments/assets/b007565e-974f-49d4-873d-60c3862381bf)
+
+CONGRATS!! YOU JUST CREATED YOUR FIRST AZURE RESOURCE GROUP!!
