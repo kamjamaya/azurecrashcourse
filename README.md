@@ -104,3 +104,7 @@ Here you can add more to the text file. Once you finish click the save button an
 ![Screenshot 21 Azure](https://github.com/user-attachments/assets/a0c0499d-45af-44e2-9739-ac94dced64f5)
 
 To observe the changes, click on the 3 dots next to Available and then click on download.
+
+Then you can view the changes you made in the Azure container as an updated text file on your computer.
+
+We have reached the end of the lab.
