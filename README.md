@@ -78,3 +78,9 @@ Now the container that you just created is in the “Container” tab in the sto
 ![Screenshot 16 Azure](https://github.com/user-attachments/assets/b9db8d65-6cf7-4936-bc45-6a2f7b64d4ae)
 
 Lastly, we will create and upload a file to our container inside of our storage account. 
+
+Open your desktop text editor. I am running on a Windows 10 operating system, so my desktop text editor is notepad.
+
+Now type anything you want into the application and then save the file.
+
+Go back to your open container and click on the “upload” button. 
