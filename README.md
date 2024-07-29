@@ -52,3 +52,5 @@ Now you’ll be taken to the review/validation page. If everything looks good to
 ![Screenshot 11 Azure](https://github.com/user-attachments/assets/d1d6c9d1-9ab3-4b26-a21c-1d9231ac582b)
 
 After clicking create, you will see this page. It may take a few minutes for your deployment to validate everything but once it is finished you should see this screen, indicating that the storage account is officially created. (Click Go to resource to see inside of your storage account)
+
+![Screenshot 12 Azure](https://github.com/user-attachments/assets/14e7eb31-944d-4e16-b715-0886b74d078a)
