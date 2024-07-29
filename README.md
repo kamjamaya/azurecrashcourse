@@ -59,8 +59,9 @@ CONGRATS!! YOU JUST CREATED YOUR FIRST AZURE STORAGE ACCOUNT.
 
 Lastly, we will create containers.
 
-Inside your storage account you will see this tab. Click on the tab “Containers” on the left-hand side. 
+Inside your storage account you will see this page. Click on the tab “Containers” on the left-hand side. 
 
 ![Screenshot 13 Azure](https://github.com/user-attachments/assets/90d296ef-ae56-4842-b70a-bc168d1a9f8a)
 
 Click “+Container” to create a container.
+
