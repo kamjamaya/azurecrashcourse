@@ -27,3 +27,5 @@ Lastly, you will be taken to this page to view your Resource group inside of you
 ![Screenshot 6 Azure](https://github.com/user-attachments/assets/b007565e-974f-49d4-873d-60c3862381bf)
 
 CONGRATS!! YOU JUST CREATED YOUR FIRST AZURE RESOURCE GROUP!!
+
+Now, we will create a storage account. 
